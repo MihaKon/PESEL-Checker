@@ -1,5 +1,3 @@
-import datetime
-
 from django import forms
 
 from .pesel_utils import get_birth_date_from_pesel, get_gender_from_pesel
